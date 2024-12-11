@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "creative-commons-license-public-domain-wikimedia-commons-pause-icon-cd99a1bc10a43d5c4608daf22166c3d7.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
